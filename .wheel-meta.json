@@ -1,0 +1,22 @@
+{
+  "wheel_id": 794,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-152",
+  "project": "roof-repair-tampa-pros-and-cons-c93dd4aa81248216d175d0782214219",
+  "parent_t1_ref": "roofcontractortampa-007",
+  "node_role": "buffer",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa pros and cons",
+  "intended_url": "https://sitesau.github.io/roofcontractortampa-152/",
+  "tier": "T2",
+  "writeback_nonce": "92e9c5fe87bb9baf",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roof-repair-tampa-roofcontractortampa-007/",
+      "anchor": "more on roof repair tampa",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
